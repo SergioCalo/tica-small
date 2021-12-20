@@ -1,11 +1,11 @@
 from gtts import gTTS
-import pyttsx3
+#import pyttsx3
 from playsound import playsound 
 import eyed3
 import time
 
-engine = pyttsx3.init()
-engine.setProperty('rate',150)
+#engine = pyttsx3.init()
+#engine.setProperty('rate',150)
 
 def TTS(answer, voice = 'female'):
     
