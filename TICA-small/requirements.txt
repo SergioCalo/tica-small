@@ -13,3 +13,4 @@ vaderSentiment
 pyttsx3
 playsound
 eyed3
+pyespeak
