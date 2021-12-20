@@ -15,7 +15,7 @@ def action(intent, user_input, voice, name, items_df, previous_recom):
     keywords = ['museum', 'bar', 'restaurant', 'opera', 'theatre', 'music', 'event', 'art',  'modern',  'painting', 'paint', 'egypt', 'zoo' ,'kid' ,'animal', 'outdoors', 'catalonia', 'theme park', 'rollercoaster', 'mountain', 'activity','tower', 'gaudí', 'gaudí', 'architecture', 'sea', 'exhibition', 'history', 'fish', 'monument', 'art nouveau', 'church', 'temple', 'market', 'archaeology', 'gallery', 'science', 'experiment', 'statue', 'culture', 'chocolate', 'palace', 'sport', 'basketball', 'ice', 'concert', 'stadium', 'cemetery', 'sculpture', 'walk', 'beach', 'square', 'fountain', 'park', 'town hall', 'barça', 'football', 'skyscraper']
     
    
-    database = pd.read_csv('/home/sergio/Documents/MIIS/NLI/TICA-app/models/Database.csv')
+    database = pd.read_csv('Database.csv')
     database = database.drop(labels=previous_recom, axis=0)
 
     #items_df
@@ -103,7 +103,7 @@ def sub_timetable(intent, user_input, items_df, voice, previous_recom):
     subaction = 'Timetable'
     weekdays = ['Monday' ,'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday']
     day = detect_day(user_input, weekdays)
-    database = pd.read_csv('/home/sergio/Documents/MIIS/NLI/TICA-app/models/Database.csv')
+    database = pd.read_csv('Database.csv')
     database = database.drop(labels=previous_recom[:-1], axis=0)
     items_rec = items_df['Positive'][0]
     recom = recommendations(items_rec, database)
@@ -149,7 +149,7 @@ def sub_location(intent, user_input, items_df, voice, previous_recom):
 
     if intent == "CONFIRM ":
         
-        database = pd.read_csv('/home/sergio/Documents/MIIS/NLI/TICA-app/models/Database.csv')
+        database = pd.read_csv('Database.csv')
         database = database.drop(labels=previous_recom[:-1], axis=0)
         items_rec = items_df['Positive'][0]
         recom = recommendations(items_rec, database)
@@ -176,7 +176,7 @@ def sub_recommendation(intent, user_input, items_df, voice, previous_recom):
 
     if intent == "CONFIRM ":
         
-        database = pd.read_csv('/home/sergio/Documents/MIIS/NLI/TICA-app/models/Database.csv')
+        database = pd.read_csv('Database.csv')
         database = database.drop(labels=previous_recom[:-1], axis=0)
         items_rec = items_df['Positive'][0]
         recom = recommendations(items_rec, database)
