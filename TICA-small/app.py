@@ -5,6 +5,7 @@ import credits
 from intent_classifier import predict_intent
 import time
 import speech_recognition as sr
+!pipwin install pyaudio
 
 #STT
 from bokeh.models.widgets import Button
