@@ -4,13 +4,13 @@ from playsound import playsound
 import eyed3
 import time
 
-engine = pyttsx3.init()
-engine.setProperty('rate',150)
 
 def TTS(answer, voice = 'female'):
     
     if voice == 'male':
         
+        engine = pyttsx3.init()
+        engine.setProperty('rate',150)
         engine.say(answer)
         engine.runAndWait()
     
