@@ -1,3 +1,4 @@
+-f https://download.pytorch.org/whl/torch_stable.html
 streamlit
 pandas
 numpy
@@ -6,10 +7,9 @@ bokeh
 streamlit_bokeh_events
 gtts
 spacy
---find-links https://download.pytorch.org/whl/torch_stable.html
-torch==1.2.0+cpu
-vaderSentiment
+torch==1.5.0+cpu
 torchtext
+vaderSentiment
 pyttsx3
 playsound
 eyed3
