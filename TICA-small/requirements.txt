@@ -6,7 +6,8 @@ bokeh
 streamlit_bokeh_events
 gtts
 spacy
-torch
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.2.0+cpu
 vaderSentiment
 torchtext
 pyttsx3
