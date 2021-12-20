@@ -1,0 +1,244 @@
+ADD_INFO,I am alone
+ADD_INFO,I love museums
+ADD_INFO,i would like to be outside
+ADD_INFO,i love to be outdoors
+ADD_INFO,we are a group
+ADD_INFO,we want something close
+ADD_INFO,what can we do on the weekend
+ADD_INFO,we are visiting for the weekend
+ADD_INFO,my kids are hungry
+ADD_INFO,we are tired
+ADD_INFO,i like art
+ADD_INFO,i love the beach
+ADD_INFO,we want to try local cuisine
+ADD_INFO,we want to listen to music
+ADD_INFO,is there live music
+ADD_INFO,i want to try spanish wine
+ADD_INFO,i like local wine
+ADD_INFO,i like dancing
+ADD_INFO,my husbund will join later
+ADD_INFO,my girlfirend will come later
+ADD_INFO,i love good food
+ADD_INFO,i want to see sagrada familia
+ADD_INFO,i just want to ask for directions
+ADD_INFO,we want to see flamenco
+ADD_INFO,i like vegetarian food place
+ADD_INFO,i have young children
+ADD_INFO,i come with my husband and three children
+ADD_INFO,I come with my wife
+ADD_INFO,I have two kids
+ADD_INFO,my son is eight and my daughter is twelve
+ADD_INFO,my son is eleven and my daughter is five
+ADD_INFO,that's our last day in Barcelona
+ADD_INFO,we came here on Monday
+ADD_INFO,we just arrived today
+ADD_INFO,we'll be a week around here
+ADD_INFO,we'll stay here three days
+ADD_INFO,i want something free
+ADD_INFO,i want to do something that doesn't cost money
+ADD_INFO,we're five of us
+ADD_INFO,we're three friends
+ADD_INFO,we've just married
+ADD_INFO,i can't eat meat
+ADD_INFO,i can't stand museums
+ADD_INFO,i don't like the crowd
+ADD_INFO,i prefer not to go far
+ADD_INFO,i don't want food
+ADD_INFO,i don't like music
+ADD_INFO,i had a bad experience with theatres
+ADD_INFO,i don't want to be outside
+ADD_INFO,i don't like churches
+ADD_INFO,i hate architecture
+ADD_INFO,i don't want to pay for anything
+ADD_INFO,I don't want anything expensive
+ADD_INFO,i would hate to have to walk
+ADD_INFO,i don't like paintings
+ADD_INFO,i hate alcohol
+ADD_INFO,he hates walking too much
+ADD_INFO,i don't like museums
+ADD_INFO,i don't want anything to do with bullfighting
+ADD_INFO,i hate parks
+ADD_INFO,my children prefer not to visit churches
+ADD_INFO,she doesn't like parks
+ADD_INFO,i don't want to spend much
+ADD_INFO,i adore art
+ADD_INFO,my child loves the beach
+ADD_INFO,my kids love to eat
+ADD_INFO,i can't wait to visit sagrada familia
+ADD_INFO,i wouldn't want to miss the wine
+ADD_INFO,i came only for the great wine
+ADD_INFO,I must visit some museums
+ADD_INFO,i like museums
+ADD_INFO,i love chocolate
+ADD_INFO,my daughter loves animals
+ADD_INFO,my girlfriend loves paintings
+ADD_INFO,my kids love football
+ADD_INFO,she likes tall buildings
+ADD_INFO,we like art and science
+RECOMMENDATION,what are the options for the museums?
+RECOMMENDATION,what restaurants are newar here?
+RECOMMENDATION,what can we do today
+RECOMMENDATION,any museums open on the weekend?
+RECOMMENDATION,is there anything we can do right now?
+RECOMMENDATION,i'm looking for a recommendation for a museum
+RECOMMENDATION,can you tell me where i can find good food?
+RECOMMENDATION,can you tell us where the best museums are
+RECOMMENDATION,we want something close
+RECOMMENDATION,what can we do on the weekend
+RECOMMENDATION,where is the restaurant
+RECOMMENDATION,what can we do in this neighbourhood
+RECOMMENDATION,where can i get a coffee
+RECOMMENDATION,we're looking for something cheap
+CONFIRM,awesome
+CONFIRM,si
+CONFIRM,perfect
+CONFIRM,terrific
+CONFIRM,i like that
+CONFIRM,that sounds interesting
+CONFIRM,i love it
+CONFIRM,exactly
+CONFIRM,hundred percent
+CONFIRM,of course
+CONFIRM,why not
+CONFIRM,let's do it
+CONFIRM,fine
+CONFIRM,for sure
+CONFIRM,great thank you
+CONFIRM,it looks cool
+CONFIRM,it looks fine
+CONFIRM,ok
+CONFIRM,okay thank you
+CONFIRM,sounds fine
+CONFIRM,sure
+CONFIRM,that's cool
+CONFIRM,yeah
+CONFIRM,yes
+CONFIRM,yes sound great
+GOODBYE,bye
+GOODBYE,bye bye
+GOODBYE,adios
+GOODBYE,good bye
+GOODBYE,see you
+GOODBYE,see you later
+GREETING,good afternoon
+GREETING,good afternoon Hermes
+GREETING,good evening
+GREETING,good evening Hermes
+GREETING,good morning
+GREETING,good morning Hermes
+GREETING,hello
+GREETING,hello Hermes
+GREETING,hey
+GREETING,hey Hermes
+GREETING,hi
+GREETING,hi Hermes
+RECOMMENDATION,are there any monuments around here?
+RECOMMENDATION,are there any museums around here?
+RECOMMENDATION,do you have any recommendation?
+RECOMMENDATION,do you have any suggestion?
+RECOMMENDATION,do you have recommendations on what to do here?
+RECOMMENDATION,i would like something artsy
+RECOMMENDATION,i would like to know if there's any park
+RECOMMENDATION,i would like to know if there's any zoo
+RECOMMENDATION,i'm looking for an art museum for today
+RECOMMENDATION,something interesting for children
+RECOMMENDATION,we would like somewhere to eat afterwards
+RECOMMENDATION,what do you suggest?
+RECOMMENDATION,what is the best museum?
+RECOMMENDATION,what museum would be appropriate for us?
+RECOMMENDATION,what can we do around here?
+RECOMMENDATION,which museum is best?
+RECOMMENDATION,what do you propose?
+REJECT,i don't like it
+REJECT,i don't think so
+REJECT,i guess not
+REJECT,i'd rather not
+REJECT,no
+REJECT,probably not
+REJECT,does not sound like a good idea
+REJECT,can you recommend something else?
+REJECT,no i want something else
+REJECT,i don't want to do that
+REJECT,no i rather not
+REJECT,not a good idea
+REJECT,i don't want to do that
+REJECT,it's not for me
+REJECT,doesn't sound good
+REJECT,do you have other recommendations
+REJECT,that doesn't seem cool
+REJECT,that's awful
+REJECT,we would like better ideas
+REQUEST_INFO,is it vegetarian friendly?
+REQUEST_INFO,can i walk there?
+REQUEST_INFO,is it still open?
+REQUEST_INFO,how late is it open?
+REQUEST_INFO,can i take a taxi there?
+REQUEST_INFO,does it have good reviews?
+REQUEST_INFO,how is that special?
+REQUEST_INFO,do they have live music?
+REQUEST_INFO,do children get a discount rate?
+REQUEST_INFO,do we have to take the metro?
+REQUEST_INFO,how can I get there?
+REQUEST_INFO,is it far from here?
+REQUEST_INFO,is it good for children?
+REQUEST_INFO,is it open on Sundays?
+REQUEST_INFO,is it very far?
+REQUEST_INFO,what is the price?
+REQUEST_INFO,what is the timetable?
+THANKS,i appreciate it
+THANKS,you were wonderful
+THANKS,you are great
+THANKS,this was very helpful
+THANKS,thank you for your help
+THANKS,thank you for helping us
+THANKS,you were very nice
+THANKS,cheers
+THANKS,thank you
+THANKS,thanks
+THANKS,thanks a bunch
+THANKS,thanks a lot
+THANKS,very appreciated
+GREETING,Good afternoon
+GREETING,Hey hey
+GREETING,Hey!
+GREETING,Hi!
+GREETING,Hi! How are you?
+GREETING,Hello!
+GREETING,Hello there
+GREETING,hi nice to meet you
+GREETING,nice to see you
+GREETING,how's it going
+GREETING,what's up
+GREETING,hello there
+GREETING,good to see you
+GREETING,encantado
+RECOMMENDATION,Any idea about a museum?
+RECOMMENDATION,Where should I go today?
+RECOMMENDATION,I'm bored at home
+RECOMMENDATION,Can you help me to find something to do today?
+RECOMMENDATION,Give me something to do
+RECOMMENDATION,Do you have any recommendation?
+REJECT,no thanks
+REJECT,no thank you
+REJECT,I don't like that one
+CONFIRM,great
+CONFIRM,Yes, I like it
+CONFIRM,of course
+CONFIRM,sure
+CONFIRM,Yeah!
+CONFIRM,Yep
+CONFIRM,Yes I do
+CONFIRM,Yes
+CONFIRM,Yes, we like it
+ADD_INFO,My favorite cuisine is French
+REJECT,I'm not sure
+REJECT,I'm not sure about it
+GOODBYE,See you later!
+GOODBYE,So long!
+GOODBYE,See ya
+GOODBYE,See you
+GOODBYE,See ya!
+GOODBYE,See you!
+CONFIRM,Yes, I like it
+CONFIRM,Of course
+CONFIRM,Sure

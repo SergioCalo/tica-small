@@ -1,0 +1,117 @@
+Name,Description,Interests,Labels,Kids,Outdoors,Price,Free,Time,Location,District
+Liceu,"Barcelona's opera house, which opened in 1847",event,[opera] [theatre] [music] [event],0,0,9€,0,"Sunday Monday Tuesday Wednesday Thursday (until 12 pm)
+Friday (until 2 pm)
+Saturday (the whole day)",41.38030153269961 2.173305526175485,Ciutat Vella
+Museu Nacional d'Art de Catalunya,a museum housing the best of Catalan art,museum,[museum] [art] [catalonia],0,0,12€,0,Tuesday Wednesday Thursday Friday Saturday (from 10 am to 6 pm) Sunday (from 10 am to 5 pm) Monday (closed),41.36846403444248 2.1535699973397477,Sants-Montjuïc
+Tibidabo,"the second oldest theme park in Europe, at the top of the Collserola mountain range",park,[theme park] [kid] [rollercoaster] [mountain] [outdoors] [activity],1,1,35€,0,"Saturday Sunday (from 12 am to 6 pm)
+Monday Tuesday Wednesday Thursday Friday (closed)",41.42262783862621 2.1185251285058513,Sarrià-Sant Gervasi
+Torre de Collserola,"a unique, 288m communications tower which dominates Barcelona's skyline in the Collserola mountain range",monument,[tower] [mountain] [modern],0,1,-,0,temporarily closed,41.41727192494582 2.11427332617674,Sarrià-Sant Gervasi
+Park Güell,a famous park full of gardens and Art Nouveau architectural elements by Gaudí,park,[park] [gaudí] [architecture] [art nouveau] [outdoors],0,0,"10€
+From 7 to 12 or over 65: 7€
+Under 7: free",0,Monday Tuesday Wednesday Thursday Friday Saturday Sunday (from 9:30 am to 7:30 pm),41.41459133147472 2.15270522617666,Gràcia
+Maritime Museum of Barcelona,a museum dedicated to shipbuilding between the thirteenth century and eighteenth century,museum,[museum] [sea],0,0,"10€
+Under 25 and over 65: 5€
+Under 17: free",0,Monday Tuesday Wednesday Thursday Friday Saturday Sunday (from 10 am to 8 pm),41.37527168634156 2.176112439669238,Ciutat Vella
+"Barcelona Museum of Contemporary Art",a contemporary art museum in Barcelona,museum,[museum] [art] [modern] [exhibition],0,0,"11€
+Students: 8.80€",0,"Monday Wednesday Thursday Friday (from 11 am to 7:30 pm)
+Saturday (from 10 am to 8 pm)
+Sunday (from 10 am to 3 pm)
+Tuesday (closed)",41.38319777106418 2.1668583846480565,Ciutat Vella
+Picasso Museum,a museum which best represents the art of the youth of the painter Pablo Picasso,museum,[art] [museum] [painting],0,0,"12€
+From 18 to 25 and over 65: 7.50€
+Free under 18 and university students",0,"Tuesday Wednesday Thursday Friday Saturday Sunday (from 10 am to 7 pm)
+Monday (closed)",41.38529472819127 2.1808613666574406,Ciutat Vella
+Egyptian Museum of Barcelona,"a museum with more than 1,100 pieces from Ancient Egypt",museum,[museum] [history] [egypt],0,0,"12€
+Students, from 15 to 18 and over 65: 8.50€
+From 6 to 14: 5€
+Under 6: free",0,"Monday Tuesday Wednesday Thursday Friday (from 10 am to 2 pm and from 4 pm to 7:30 pm)
+Saturday (from 10 am to 3 pm and from 4 pm to 7:30 pm)
+Sunday (from 10 am to 2 pm) ",41.39363247648414 2.164687510834509,Eixample
+Hospital de Sant Pau,"an Art Nouveau building, serving as a hospital until 2009",event,[art] [architecture],0,0,"15 euro, reduced price 10.50 euro for 16-29 years old, or 65 and more, free for children under 16 ",0,,41.41385255540132 2.17432472617663,Horta-Guinardó
+Zoo,"a zoological garden inaugurated in 1892 containing 4,000 animals",activity,[zoo] [kid] [animal] [outdoors],1,1,"21.40€
+From 3 to 12: 12.95€
+Under 3: free
+Over 65: 10.50€",0,"Monday Tuesday Wednesday Thursday Friday (from 10 am to 4:30 pm)
+Saturday Sunday (from 10 am to 5:30 pm)",41.38638367729466 2.1897569261756864,Ciutat Vella
+Aquarium,"home to 11,000 different animals",activity,[zoo] [kid] [animal] [fish] [sea],1,0,"21€
+From 5 to 10: 16€
+From 3 to 4: 9€",0,"Monday Tuesday Wednesday Thursday Friday (from 10 am to 7 pm)
+Saturday Sunday (from 10 am to 8 pm)",41.37688268337111 2.1843341148096305,Ciutat Vella
+Casa Milà,"an Art Nouveau building by Gaudí, also known as ""the Stone Quarry"" due to its bizarre appearance",monument,[monument] [gaudí] [art nouveau] [architecture],0,0,"24€
+From 7 to 12: 12€
+Under 7: free
+Students, over 65: 18.50€",0,"Monday Tuesday Wednesday (from 9 am to 6:30 pm)
+Thursday Friday Saturday Sunday (from 9 am to 6:30 pm and from 9 pm to 23 pm)",41.39535717787327 2.161886702719656,Eixample
+Sagrada Família,"the most famous monument in Barcelona, a basilica designed by Gaudí in 1882 but still under construction",monument,[monument] [church] [gaudí] [architecture] [art nouveau] [temple],0,0,"26€
+Under 30: 24€
+Seniors: 21€
+Under 11: 0€",0,Monday Tuesday Wednesday Thursday Friday Saturday Sunday (from 9 am to 6 pm),41.403855205209204 2.174355797340927,Eixample
+Mercat del Born,a former market and current cultural center about the Spanish War of Succession,activity,[market] [history] [archaeology],0,0,"3€
+Under 12: 1.50€",0,"Tuesday Wednesday Thursday Friday Saturday Sunday (from 10 am to 8 pm)
+Monday (closed)",41.385469425868024 2.18411072617566,Ciutat Vella
+Casa Batlló,"a Gaudí building, also known as ""House of Bones"" due to its balconies and with an arched roof similar to a dragon",monument,[gaudí] [art nouveau] [architecture],0,0,"35€
+Over 65: 32€
+From 13 to 17: 29€
+Under 12: free",0,"Monday Tuesday Wednesday Thursday Friday Saturday (from 10 am to 4:30 pm)
+Sunday (10 am to 4:30 pm)",41.39183009690341 2.1649568740476868,Eixample
+CaixaForum,"an art gallery with Art Nouveau style, with cultural exhibitions for all publics",museum,[art] [museum] [gallery],0,0,"6€
+Free under 16",0,Monday Tuesday Wednesday Thursday Friday Saturday Sunday (from 10 am to 8 pm),41.371340184744454 2.1495857261752076,Sants-Montjuïc
+CosmoCaixa,a science museum with plenty of activities for kids,museum,[science] [kid] [museum] [experiment] [activity],1,0,"6€
+Free under 16",0,Monday Tuesday Wednesday Thursday Friday Saturday Sunday (from 10 am to 8 pm),41.41299611789785 2.131540268505898,Sarrià-Sant Gervasi
+Columbus Monument,a monument to Christopher Columbus from 1888,monument,[monument] [sea] [statue],0,0,"6€
+From 4 to 12 and over 65: 4€
+Under 4: free",0,Monday Tuesday Wednesday Thursday Friday Saturday Sunday (from 8:30 am to 8:30 pm),41.37586503494 2.1777605973399994,Ciutat Vella
+Museum of the History of Catalonia,a museum dedicated to the history of Catalonia,museum,[museum] [history] [exhibition],0,0,"6€
+Students and over 65: 4€
+Under 16: free",0,"Tuesday Thursday Friday Saturday (from 10 am to 7 pm)
+Wednesday (from 10 am to 8 pm)
+Sunday (from 10 am to 14:30 pm)
+Monday (closed)",41.38083618004206 2.1858729973401467,Ciutat Vella
+Centre de Cultura Contemporània de Barcelona,an arts centre focused in urban and modern art,event,[museum] [culture] [exhibition] [modern] [art],0,0,"6€
+Under 25 and over 65: 4€
+Under 12: free",0,"Tuesday Wednesday Thursday Friday Saturday Sunday (from 11 am to 8 pm)
+Monday (closed)",41.38370437926907 2.166841039669533,Ciutat Vella
+Chocolate Museum,a museum about the history and traditions around chocolate,museum,[chocolate] [museum] [kid],1,0,"6€
+Under 7: free",0,"Tuesday Wednesday Thursday Friday Saturday (from 10 am to 7 pm)
+Sunday (from 10 am to 3 pm)
+Monday (closed)",41.38718782161673 2.181791597340361,Ciutat Vella
+"Museum of the History of Barcelona",a museum exhibiting the historical heritage of the city of Barcelona,museum,[museum] [history],0,0,"7€
+Students under 29: 5€
+Under 16: free",0,"Tuesday Wednesday Thursday Friday Saturday (from 10 am to 7 pm)
+Sunday (from 8 pm)
+Monday (closed)",41.38391997888992 2.1776736783038118,Ciutat Vella
+Palau del Parlament de Catalunya,an assembly hall built in 1714 which houses Catalonia's Parliament,monument,[palace] [catalonia],0,0,Free,1,"Monday Tuesday Wednesday Thursday Friday (from 9 am to 6 pm)
+Saturday Sunday (closed)",41.38804022300347 2.1886693685050314,Ciutat Vella
+Palau de la Generalitat,"a historical palace from the Middle Ages, which houses the presidency of Catalonia's government",park,[palace] [catalonia],0,0,Free,1,"Monday Tuesday Wednesday Thursday Friday Saturday (from 10 am to 8 pm)
+Sunday (closed)",41.3828558293285 2.176696168504853,Ciutat Vella
+Palau de la Música,a wonderful concert hall in Art Nouveau style,event,[palace] [music],0,0,Free,1,Monday Tuesday Wednesday Thursday Friday Saturday Sunday (from 10 am to 3:30 pm),41.38769591951089 2.1753664415171983,Ciutat Vella
+Palau Sant Jordi,a multi-purpose installation in the Olympic Ring,activity,[sport] [basketball] [ice] [concert] [music] [activity],0,0,Free,1,Monday Tuesday Wednesday Thursday Friday Saturday Sunday (from 10 am to 6 pm),41.36346830743134 2.1525929973395836,Sants-Montjuïc
+Lluís Companys Olympic Stadium,a stadium built in 1927 and main venue of the 1992 Barcelona Olympic Games,park,[sport] [mountain] [stadium],0,0,Free,1,Monday Tuesday Wednesday Thursday Friday Saturday Sunday (from 10 am to 6 pm),41.36490912271877 2.1556274819981835,Sants-Montjuïc
+Barcelona Cathedral,"a gothic cathedral built in the fifteenth century, with an ornate style",monument,[church] [temple],0,0,Free,1,"Monday Tuesday Wednesday Thursday Friday Saturday Sunday (from 8 am to 12:45 am, from 1 pm to 5:30 pm and from 5:45 pm to 7:30 pm)",41.38412297515482 2.1761883685048966,Ciutat Vella
+Poblenou Cemetery,an old cemetery with individual monuments and mausolea for the dead of the bourgeoisie,monument,[cemetery] [outdoors] [sculpture] [art],0,1,Free,1,Monday Tuesday Wednesday Thursday Friday Saturday Sunday (from 8 am to 6 pm),41.39528335383698 2.201791583846708,Sant Martí
+La Boqueria,a large public market of fresh products as well as a famous tourist attraction,park,[market] [walk],0,0,Free,1,Monday Tuesday Wednesday Thursday Friday Saturday Sunday (from 8 am to 8:30 pm),41.38211823189719 2.1720144507545416,Ciutat Vella
+"Temple Expiatori del Sagrat Cor","a church and basilica at the top of the Collserola mountain ridge, with views over Barcelona",monument,[church] [mountain] [temple],0,0,Free,1,Monday Tuesday Wednesday Thursday Friday Saturday Sunday (from 9 am to 8 pm),41.42212344975343 2.118787297341572,Sarrià-Sant Gervasi
+Sant Sebastià,the longest beach in Barcelona,park,[beach] [sea] [outdoors],0,1,Free,1,open at all times,41.370353191441446 2.1890825058525825,Ciutat Vella
+The Four Columns,four Ionic columns by Puig i Cadafalch which represent the four stripes on the Catalan flag,monument,[outdoors] [monument],0,1,Free,1,open at all times,41.37063907927022 2.15206169733981,Sants-Montjuïc
+Plaça d'Espanya,a famous square with a statue representing Spain's three seas and with two towers similar to the one in Venice,park,[square] [fountain] [outdoors],0,1,Free,1,open at all times,41.3750902374321 2.1490910608338742,Sants-Montjuïc
+Dona i Ocell,"a surrealist sculpture by Joan Miró, in English ""Woman and Bird""",event,[sculpture] [outdoors] [art],0,1,Free,1,open at all times,41.37813410336372 2.146550101596421,Sants-Montjuïc
+La Barceloneta,one of the beaches in Barcelona and a seaside neighbourhood,park,[beach] [sea] [outdoors],0,1,Free,1,open at all times,41.3784199231233 2.192439457447857,Ciutat Vella
+Parc Joan Miró,a park near Plaça d'Espanya,park,[park] [walk] [outdoors],0,1,Free,1,open at all times,41.37913282886791 2.1473680685047487,Sants-Montjuïc
+Plaça Reial,"a square in the old town, with the lampposts by Antoni Gaudí",park,[square] [fountain] [outdoors],0,1,Free,1,open at all times,41.38013553592559 2.175295874069012,Ciutat Vella
+Plaça Sant Jaume,a square with the town hall and the Palau de la Generalitat facing each other,park,[square] [town hall] [catalonia] [outdoors],0,1,Free,1,open at all times,41.38270512922951 2.177012868504846,Ciutat Vella
+Fossar de les Moreres,a memorial square to the defenders of Barcelona during the Spanish War of Succession in 1714,park,[outdoors] [history],0,1,Free,1,open at all times,41.38384317716835 2.1823665973402586,Ciutat Vella
+Somorrostro,one of the beaches in Barcelona,park,[beach] [sea] [outdoors],0,1,Free,1,open at all times,41.383885568554646 2.195728073041944,Ciutat Vella
+Font de Canaletes,"an ornate fountain in La Rambla, where Barça fans go celebrate their trophies",park,[fountain] [outdoors] [events],0,1,Free,1,open at all times,41.385282827485085 2.170090481998882,Ciutat Vella
+La Rambla,"the most famous avenue in Barcelona, going from Plaça Catalunya to the sea",park,[outdoors] [street],0,1,Free,1,open at all times,41.385520133604224 2.1702886660961176,Ciutat Vella
+Plaça de Catalunya,"the most famous square, between the old town and the modern Eixample district",park,[square] [outdoors],0,1,Free,1,open at all times,41.38747267054126 2.169706526175734,Ciutat Vella
+Parc de la Ciutadella,"the green heart of Barcelona, which includes the zoo and the Parliament of Catalonia",park,[park] [walk] [outdoors],0,1,Free,1,open at all times,41.388122979268665 2.1859830108343288,Ciutat Vella
+Arc de Triomf,a triumphal arch built during the 1888 Barcelona World Fair,monument,[history] [monument] [outdoors],0,1,Free,1,open at all times,41.39105712605045 2.1806293108344317,Ciutat Vella
+Magic Fountain,a fountain in Montjuïc famous for its sound and light shows,monument,[fountain] [outdoors] [kid],1,1,Free,1,"Tuesday Wednesday Sunday (from 11 am to 1 pm and from 4 pm to 6 pm)
+Sunday (from 11 am to 3 pm) Monday Thursday Friday Saturday (closed)",41.3711756848259 2.1517162108337504,Sants-Montjuïc
+Fira de Barcelona,a precinct which houses trade fairs and congresses,event,[event],0,0,From 25€,0,"Monday Tuesday Wednesday Thursday Friday (from 9 am to 7 pm)
+Saturday Sunday (closed)",41.37263184260404 2.152891326175221,Sants-Montjuïc
+Camp Nou,"the stadium of Football Club Barcelona, the largest stadium in Europe",park,[sport] [stadium] [barça] [event] [outdoors] [kid] [football],1,1,From 34€,0,Monday Tuesday Wednesday Thursday Friday Saturday Sunday (from 09:30 am to 7:30 pm),41.38101673191423 2.1228197973401457,Les Corts
+Barça Museum,the museum of the world-class Fooball Club Barcelona with all of the trophies,museum,[sport] [museum] [football] [barça],1,0,Individual tickets can go from 26€,0,"Monday Tuesday Wednesday Thursday Friday Saturday (from 10 am to 6 pm)
+Sunday (from 10 am to 3 pm)",41.38036088234148 2.120919226175501,Les Corts
+Torre Glòries,"the third tallest skyscraper in Barcelona, in the technological area",monument,[tower] [modern] [skyscraper],0,0,It's not possible to visit it from the inside,0,"Monday Tuesday Wednesday Thursday Friday (from 9 am to 6 pm)
+Saturday Sunday (closed)",41.40350144795812 2.1895823685055555,Sant Martí
