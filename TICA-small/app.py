@@ -12,7 +12,7 @@ from bokeh.models import CustomJS
 from streamlit_bokeh_events import streamlit_bokeh_events as ASR
 
 #TTS
-from TTS import TTS
+#from TTS import TTS
 voice_ = 'female'
 
 
@@ -86,36 +86,36 @@ def home():
             if st.session_state.subaction == 'recommendation':
                 answer, st.session_state.subaction = sub_recommendation(intent, user_input, st.session_state['items'], st.session_state.voice,  st.session_state['previous_recom'])   
                 st.write(answer)
-                TTS(answer, voice = st.session_state.voice)
+              #  TTS(answer, voice = st.session_state.voice)
                 return
             
             if st.session_state.subaction == 'Location':
                 answer, st.session_state.subaction = sub_location(intent, user_input, st.session_state['items'], st.session_state.voice,  st.session_state['previous_recom'])    
                 st.write(answer)
-                TTS(answer, voice = st.session_state.voice)
+                #TTS(answer, voice = st.session_state.voice)
                 return
             
             if st.session_state.subaction == 'Timetable':
                 answer, st.session_state.subaction = sub_timetable(intent, user_input, st.session_state['items'], st.session_state.voice,  st.session_state['previous_recom'])    
                 st.write(answer)
-                TTS(answer, voice = st.session_state.voice)
+               # TTS(answer, voice = st.session_state.voice)
                 return
             
             if st.session_state.subaction == 'Ask_timetable':
                 answer, st.session_state.subaction = sub_ask_timetable(intent)
-                TTS(answer, voice = st.session_state.voice)
+              #  TTS(answer, voice = st.session_state.voice)
                 return
             
             if st.session_state.subaction == 'Greeting':
                 answer, st.session_state.name, st.session_state.subaction = sub_greeting(user_input, st.session_state.voice)
                 st.write(answer)
-                TTS(answer, voice = st.session_state.voice)
+             #   TTS(answer, voice = st.session_state.voice)
                 return
             
             if st.session_state.subaction == False:
                 answer, st.session_state.subaction, st.session_state['previous_recom'] = action(intent,  user_input,  st.session_state.voice, st.session_state.name, st.session_state['items'], st.session_state['previous_recom'] )
                 st.write(answer)
-                TTS(answer, voice = st.session_state.voice)
+               # TTS(answer, voice = st.session_state.voice)
                 return
                                      
 
