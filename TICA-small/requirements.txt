@@ -14,4 +14,4 @@ pyttsx3
 playsound
 eyed3
 pipwin
-pyaudio
+PyAudio
