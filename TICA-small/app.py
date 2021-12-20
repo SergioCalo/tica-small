@@ -44,20 +44,8 @@ def main():
 
 def home():
     st.title("Welcome to TICA, your Tourist Information Conversational Agent")
-    user_input = None
-    def takecomand():
-        r=sr.Recognizer()
-        with sr.Microphone() as source:
-            audio=r.listen(source)
-            try:
-                text = r.recognize_google(audio)
-            except:
-                TTS("Please say something, I'm bored!", voice = st.session_state.voice)
-                return
-            return text
+    user_input = st.text_input('Input your sentence here:') 
 
-    if st.button("Click here so I can hear you :)"):
-        user_input = takecomand()
     
     st.write("Select voice: ")
     col1, col2, col3 = st.columns([1,1,1])
