@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+SpeechRecognition
+bokeh
+streamlit_bokeh_events
+gtts
+spacy
+torch
+vaderSentiment
+torchtext
+pyttsx3
+playsound
+eyed3
